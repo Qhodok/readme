@@ -13,8 +13,8 @@ These instructions will get you a copy of the project up and running on your loc
 * 
 * 
 * 
-* download or install [go_tool] (https://gitlab.com/notula/go-tools)
-* download or install [segmentor] (http://bhskita.dynu.com:8880/Notula/notula-segmentor)
+* download or install [go_tool](https://gitlab.com/notula/go-tools)
+* download or install [segmentor](http://bhskita.dynu.com:8880/Notula/notula-segmentor)
 
 
 ```
