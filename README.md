@@ -8,13 +8,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-install [NATS streaming]
-install [postgres]
-
-
-
-download or install [go_tool] (https://gitlab.com/notula/go-tools)
-download or install [segmentor] (http://bhskita.dynu.com:8880/Notula/notula-segmentor)
+* install [NATS streaming]
+* install [postgres]
+* 
+* 
+* 
+* download or install [go_tool] (https://gitlab.com/notula/go-tools)
+* download or install [segmentor] (http://bhskita.dynu.com:8880/Notula/notula-segmentor)
 
 
 ```
